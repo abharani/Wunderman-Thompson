@@ -88,6 +88,14 @@ textarea {
   gap: 5vw;
   background-color: #f7f6f6;
 }
+.pivot-list{
+    display: flex;
+    justify-content: center;
+    gap: 5vw;
+    margin-top: 5vw;
+    cursor: pointer;
+    color: #6aafd7;
+}
 .pivot-container {
   box-shadow: #d7d5d5 0px 0.8px;
   margin-left: 5vw;
